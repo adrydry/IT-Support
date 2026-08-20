@@ -1,0 +1,13 @@
+Context:  Northstar's identity infrastructure is a mess. Users added manually. Access inconsistent. No organization. No compliance. Imagine you're managing 200 people at a company. Each person needs access to different systems. 
+Beyoncé in Finance needs access to the accounting software, the finance shared drive, and the financial reporting tool. 
+Lil Yachty in IT needs access to servers, network equipment, and security software. 
+Usher in Operations needs access to the scheduling system and the operations reports.
+WITHOUT a centralized system, here's what happens:
+You manually create accounts on each system. 
+You write down passwords on sticky notes or in a spreadsheet. 
+When Beyoncé moves from Finance to Operations, you manually update her access on five different systems. 
+You probably miss one. When Lil Yachty leaves, you disable his account on three systems but forget about the fourth, and he still has access to something he shouldn't.
+This is chaos. It's also dangerous. And it's basically what's happening at Northstar right now.
+
+**Active Directory** solves this problem.
+Active Directory (AD) is a centralized database that stores information about all the users, computers, and resources on a network. Think of it as the phone book for your entire organization, but instead of just names and numbers, it stores access permissions, group memberships, and security policies.
