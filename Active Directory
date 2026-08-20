@@ -18,9 +18,8 @@ Active Directory (AD) is a centralized database that stores information about al
 
 - Download and Install Virtual box
 
-<img width="697" height="540" alt="image" src="https://github.com/user-attachments/assets/79a10bee-2ce5-4f2b-92f5-604f050c29fd" />
-
 - Download the 64-bit Windows Server ISO (2019 or 2022) from Microsoft's Eval Center: https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019. Leave the file in your Downloads folder. Do not open or install it.
 
 - In VirtualBox, click New. Name it NMG-DC01. Set Type to Microsoft Windows and Version to Windows 2019/2022 (64-bit). Point the ISO field to the file in Downloads.
 
+- 
