@@ -1,4 +1,5 @@
-Context:  Northstar's identity infrastructure is a mess. Users added manually. Access inconsistent. No organization. No compliance. Imagine you're managing 200 people at a company. Each person needs access to different systems. 
+# Context: 
+Northstar's identity infrastructure is a mess. Users added manually. Access inconsistent. No organization. No compliance. Imagine you're managing 200 people at a company. Each person needs access to different systems. 
 Beyoncé in Finance needs access to the accounting software, the finance shared drive, and the financial reporting tool. 
 Lil Yachty in IT needs access to servers, network equipment, and security software. 
 Usher in Operations needs access to the scheduling system and the operations reports.
@@ -11,3 +12,9 @@ This is chaos. It's also dangerous. And it's basically what's happening at North
 
 **Active Directory** solves this problem.
 Active Directory (AD) is a centralized database that stores information about all the users, computers, and resources on a network. Think of it as the phone book for your entire organization, but instead of just names and numbers, it stores access permissions, group memberships, and security policies.
+
+
+## Create our Infrastructure
+
+- Download and Install Virtual box
+
